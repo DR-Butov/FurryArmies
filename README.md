@@ -25,9 +25,10 @@ Installation:
 2. Open the zip file and extract it to your SPT folder.
 3. That's it—enjoy the new weapon mods.
 
-WTT - CommonLib 2.0.20 or higher is required.
+**WTT - CommonLib 2.0.20 or higher is required.**
 Known issues: None, apparently.
 Available localizations: English, Russian.
+
 The mod has not been published on SPTForge due to non-compliance with Content Guidelines (Section 7.1, Adult Content Policy).
 
 </details>
@@ -55,7 +56,8 @@ The mod has not been published on SPTForge due to non-compliance with Content Gu
 2. Откройте Zip-файл и разархивируйте его в вашу папку SPT
 3. Все, наслаждайтесь новыми оружейными модулями
 
-Для работы требуется WTT - CommonLib 2.0.20 или выше
+**Для работы требуется WTT - CommonLib 2.0.20 или выше**
 Имеющиеся локализации: английский, русский.
 Известные проблемы: Вроде бы отсутствуют.
+
 Мод не опубликован на SPTForge из-за несоответствия правилам в отношении контента (Пункт 7.1 Политика в отношении контента для взрослых)
