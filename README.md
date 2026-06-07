@@ -5,9 +5,11 @@
 <summary>English</summary>
 
 A mod for SPT (compatible with versions 4.0.13 and higher) that adds new modular handguards for the AK, three pistol grips for the AK, grip panels for the M1911, and three pistol grips for the AR-15...
+
 <img width="210" height="582" alt="Снимок экрана 2026-06-07 015814" src="https://github.com/user-attachments/assets/b0331a9f-4011-47bf-87e0-96b8f37b6def" />
 
-Modules for the AK are purchased from Prapor at loyalty levels 1–2, while those for the AR-15 are purchased from Peacekeeper at loyalty level 1/
+Modules for the AK are purchased from Prapor at loyalty levels 1–2, while those for the AR-15 are purchased from Peacekeeper at loyalty level 1
+
 **The original design belongs to [PREVENTER14](https://x.com/PREVENTER14)**
 
 Screenshots demonstrating:
@@ -22,6 +24,7 @@ Screenshots demonstrating:
 <details>
 <summary>Русский</summary>
 Мод для SPT (Совместим с версиями 4.0.13 и выше), добавляющий новые сборные цевья на АК, 3 пистолетные рукоятки для АК, накладки для М1911, а также 3 пистолетные рукояти для AR-15
+
 <img width="210" height="582" alt="Снимок экрана 2026-06-07 015814" src="https://github.com/user-attachments/assets/b0331a9f-4011-47bf-87e0-96b8f37b6def" />
 
 Модули для АК приобретаются на 1-2 уровнях лояльности у Прапора, а для AR-15 - на 1 уровне лояльности у миротворца
