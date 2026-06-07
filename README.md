@@ -20,6 +20,9 @@ Screenshots demonstrating:
 <img width="1125" height="713" alt="Снимок экрана 2026-06-07 031038" src="https://github.com/user-attachments/assets/432ef8ad-a8ad-43e9-b535-b9d89e2231c3" />
 <img width="1364" height="640" alt="Снимок экрана 2026-06-07 031126" src="https://github.com/user-attachments/assets/337c27dd-8ce6-46b1-80cc-fa328eadf37d" />
 
+Known issues: None, apparently.
+Available localizations: English, Russian.
+
 </details>
 <details>
 <summary>Русский</summary>
@@ -40,4 +43,5 @@ Screenshots demonstrating:
 <img width="1125" height="713" alt="Снимок экрана 2026-06-07 031038" src="https://github.com/user-attachments/assets/432ef8ad-a8ad-43e9-b535-b9d89e2231c3" />
 <img width="1364" height="640" alt="Снимок экрана 2026-06-07 031126" src="https://github.com/user-attachments/assets/337c27dd-8ce6-46b1-80cc-fa328eadf37d" />
 
-Известные проблемы: Вроде бы отсутствуют
+Имеющиеся локализации: английский, русский.
+Известные проблемы: Вроде бы отсутствуют.
