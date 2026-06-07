@@ -20,9 +20,15 @@ Screenshots demonstrating:
 <img width="1125" height="713" alt="Снимок экрана 2026-06-07 031038" src="https://github.com/user-attachments/assets/432ef8ad-a8ad-43e9-b535-b9d89e2231c3" />
 <img width="1364" height="640" alt="Снимок экрана 2026-06-07 031126" src="https://github.com/user-attachments/assets/337c27dd-8ce6-46b1-80cc-fa328eadf37d" />
 
+Installation:
+1. Download the latest version of the mod.
+2. Open the zip file and extract it to your SPT folder.
+3. That's it—enjoy the new weapon mods.
+
 WTT - CommonLib 2.0.20 or higher is required.
 Known issues: None, apparently.
 Available localizations: English, Russian.
+The mod has not been published on SPTForge due to non-compliance with Content Guidelines (Section 7.1, Adult Content Policy).
 
 </details>
 <details>
@@ -44,6 +50,12 @@ Available localizations: English, Russian.
 <img width="1125" height="713" alt="Снимок экрана 2026-06-07 031038" src="https://github.com/user-attachments/assets/432ef8ad-a8ad-43e9-b535-b9d89e2231c3" />
 <img width="1364" height="640" alt="Снимок экрана 2026-06-07 031126" src="https://github.com/user-attachments/assets/337c27dd-8ce6-46b1-80cc-fa328eadf37d" />
 
+Установка: 
+1. Скачайте последнюю версию мода
+2. Откройте Zip-файл и разархивируйте его в вашу папку SPT
+3. Все, наслаждайтесь новыми оружейными модулями
+
 Для работы требуется WTT - CommonLib 2.0.20 или выше
 Имеющиеся локализации: английский, русский.
 Известные проблемы: Вроде бы отсутствуют.
+Мод не опубликован на SPTForge из-за несоответствия правилам в отношении контента (Пункт 7.1 Политика в отношении контента для взрослых)
